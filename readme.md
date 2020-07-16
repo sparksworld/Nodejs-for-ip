@@ -93,5 +93,5 @@
 ![20200716174434-alfred-workFlow_2020-07-16](https://cdn.jsdelivr.net/gh/sparksworld/upload-images/images/20200716174434-alfred-workFlow_2020-07-16.png)
 
 ### 最后
-- [Nodejs for ip下载]()
+- [Nodejs for ip下载](https://github.com/sparksworld/Nodejs-for-ip/raw/master/Nodejs%20for%20ip.alfredworkflow)
 - [项目地址](https://github.com/sparksworld/Nodejs-for-ip)
